@@ -32,7 +32,8 @@ android {
     }
 
     dependencies {
+        implementation 'com.google.android.play:review:2.0.1'
+
         // Release notes: https://developer.android.com/reference/com/google/android/play/core/release-notes
-        implementation 'com.google.android.play:core:1.9.1'
     }
 }
